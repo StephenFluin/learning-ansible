@@ -1,0 +1,6 @@
+myhosts:
+    hosts:
+        ansible:
+            ansible_host: ansible
+    vars:
+        ansible_python_interpreter: auto_silent
